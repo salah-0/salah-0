@@ -1,8 +1,11 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 **salah-0/salah-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+#- 💼 **Current Role**: [Your Job Title] at [Your Company]
+#- 🌐 **Website**: [Your Personal Website/Portfolio]
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,8 +24,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **Machine Lea
 ## About Me
 
 - 🎓 **Education**: Master Degree in Econometrics from TU Dortmund
-#- 💼 **Current Role**: [Your Job Title] at [Your Company]
-#- 🌐 **Website**: [Your Personal Website/Portfolio]
 - 📫 **Contact**: salah.young@hotmail.com
 
 ## 🛠️ Skills
@@ -31,7 +32,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **Machine Lea
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 
