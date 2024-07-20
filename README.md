@@ -90,7 +90,7 @@ Here are some of my notable projects:
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/salah-hussein01/">
+  <a href="https://www.linkedin.com/in/salah-hussein01/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
