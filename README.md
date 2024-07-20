@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Salah 👋
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **Machine Learning Engineer**, and **Back-End Developer**. I enjoy creating innovative solutions using data and cutting-edge technologies.
+Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **Machine Learning Engineer**, and **Jr. Back-End Developer**. I enjoy creating innovative solutions using data and cutting-edge technologies.
 
 ## About Me
 
-- 🎓 **Education**: [Your Degree] in [Your Major] from [Your University]
-- 💼 **Current Role**: [Your Job Title] at [Your Company]
-- 🌐 **Website**: [Your Personal Website/Portfolio]
-- 📫 **Contact**: [Your Email]
+- 🎓 **Education**: Master Degree in Econometrics from TU Dortmund
+#- 💼 **Current Role**: [Your Job Title] at [Your Company]
+#- 🌐 **Website**: [Your Personal Website/Portfolio]
+- 📫 **Contact**: salah.young@hotmail.com
 
 ## 🛠️ Skills
 
@@ -82,10 +82,10 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **Machine Lea
 
 Here are some of my notable projects:
 
-1. **[Academic Success Dataset](https://github.com/yourusername/academic-success-dataset)**: Analyzing factors affecting academic success.
-2. **[Binary Classification Bank Dataset](https://github.com/yourusername/binary-classification-bank-dataset)**: A binary classification model for predicting bank customer behaviors.
-3. **[MAGIC Gamma Telescope Data](https://github.com/yourusername/magic-gamma-telescope-data)**: Classification of gamma telescope data using machine learning.
-4. **[Seoul Bike Sharing Data](https://github.com/yourusername/seoul-bike-sharing-data)**: Analysis and prediction of bike-sharing demand in Seoul.
+1. **[Academic Success Dataset]((https://github.com/salah-0/Machine-Learning-/tree/main/Academic%20Success%20Datase))**: Analyzing factors affecting academic success.
+2. **[Binary Classification Bank Dataset]((https://github.com/salah-0/Machine-Learning-/tree/main/Binary_C_Bank_Dataset))**: A binary classification model for predicting bank customer behaviors.
+3. **[MAGIC Gamma Telescope Data]((https://github.com/salah-0/Machine-Learning-/tree/main/MAGIC%20Gamma%20Telescope%20Data))**: Classification of gamma telescope data using machine learning.
+4. **[Seoul Bike Sharing Data](https://github.com/salah-0/Machine-Learning-/tree/main/Seoul_Bike_Sharing_Data)**: Analysis and prediction of bike-sharing demand in Seoul.
 
 ## 📈 GitHub Stats
 
