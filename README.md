@@ -82,9 +82,9 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **Machine Lea
 
 Here are some of my notable projects:
 
-1. **[Academic Success Dataset]((https://github.com/salah-0/Machine-Learning-/tree/main/Academic%20Success%20Datase))**: Analyzing factors affecting academic success.
-2. **[Binary Classification Bank Dataset]((https://github.com/salah-0/Machine-Learning-/tree/main/Binary_C_Bank_Dataset))**: A binary classification model for predicting bank customer behaviors.
-3. **[MAGIC Gamma Telescope Data]((https://github.com/salah-0/Machine-Learning-/tree/main/MAGIC%20Gamma%20Telescope%20Data))**: Classification of gamma telescope data using machine learning.
+1. **[Academic Success Dataset](https://github.com/salah-0/Machine-Learning-/tree/main/Academic%20Success%20Datase)**: Analyzing factors affecting academic success.
+2. **[Binary Classification Bank Dataset](https://github.com/salah-0/Machine-Learning-/tree/main/Binary_C_Bank_Dataset)**: A binary classification model for predicting bank customer behaviors.
+3. **[MAGIC Gamma Telescope Data](https://github.com/salah-0/Machine-Learning-/tree/main/MAGIC%20Gamma%20Telescope%20Data)**: Classification of gamma telescope data using machine learning.
 4. **[Seoul Bike Sharing Data](https://github.com/salah-0/Machine-Learning-/tree/main/Seoul_Bike_Sharing_Data)**: Analysis and prediction of bike-sharing demand in Seoul.
 
 ## 📈 GitHub Stats
