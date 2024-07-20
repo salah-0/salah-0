@@ -66,6 +66,31 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **Machine Lea
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
 </p>
 
+## 🚀 Projects
+
+Here are some of my notable projects:
+
+1. **[Academic Success Dataset](https://github.com/salah-0/Machine-Learning-/tree/main/Academic%20Success%20Datase)**: Analyzing factors affecting academic success.
+2. **[Binary Classification Bank Dataset](https://github.com/salah-0/Machine-Learning-/tree/main/Binary_C_Bank_Dataset)**: A binary classification model for predicting bank customer behaviors.
+3. **[MAGIC Gamma Telescope Data](https://github.com/salah-0/Machine-Learning-/tree/main/MAGIC%20Gamma%20Telescope%20Data)**: Classification of gamma telescope data using machine learning.
+4. **[Seoul Bike Sharing Data](https://github.com/salah-0/Machine-Learning-/tree/main/Seoul_Bike_Sharing_Data)**: Analysis and prediction of bike-sharing demand in Seoul.
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/salah-hussein01/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+
 ### Others
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
