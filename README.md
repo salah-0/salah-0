@@ -17,30 +17,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm [Your Name] 👋
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **Machine Learning Engineer**, and **Back-End Developer**. I enjoy creating innovative solutions using data and cutting-edge technologies.
+# Hi there, I'm Salah 👋
+
+Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **Machine Learning Engineer**, and **Jr. Back-End Developer**. I enjoy creating innovative solutions using data and cutting-edge technologies.
 
 ## About Me
 
-- 🎓 **Education**: [Your Degree] in [Your Major] from [Your University]
-- 💼 **Current Role**: [Your Job Title] at [Your Company]
-- 🌐 **Website**: [Your Personal Website/Portfolio]
-- 📫 **Contact**: [Your Email]
+- 🎓 **Education**: Master Degree in Econometrics from TU Dortmund
+- 📫 **Contact**: salah.young@hotmail.com
 
 ## 🛠️ Skills
 
-<div style="background-color: white; padding: 10px; border-radius: 10px;">
-
 ### Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" title="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" title="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 
-### Frameworks and Libraries
+
+
+### Tools and Platforms
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" title="Keras" width="40" height="40"/>
@@ -53,46 +51,33 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **Machine Lea
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="40" height="40"/>
 </p>
 
-### Tools and Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" title="GCP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="40" height="40"/>
-</p>
 
 ### Databases
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
 </p>
 
 ### Others
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" title="Seaborn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" title="Plotly" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="ETL" title="ETL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" alt="API Development" title="API Development" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="CI/CD" title="CI/CD" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="ETL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" alt="API Development" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="CI/CD" width="40" height="40"/>
 </p>
-
-</div>
 
 ## 🚀 Projects
 
 Here are some of my notable projects:
 
-1. **[Academic Success Dataset](https://github.com/yourusername/academic-success-dataset)**: Analyzing factors affecting academic success.
-2. **[Binary Classification Bank Dataset](https://github.com/yourusername/binary-classification-bank-dataset)**: A binary classification model for predicting bank customer behaviors.
-3. **[MAGIC Gamma Telescope Data](https://github.com/yourusername/magic-gamma-telescope-data)**: Classification of gamma telescope data using machine learning.
-4. **[Seoul Bike Sharing Data](https://github.com/yourusername/seoul-bike-sharing-data)**: Analysis and prediction of bike-sharing demand in Seoul.
+1. **[Academic Success Dataset](https://github.com/salah-0/Machine-Learning-/tree/main/Academic%20Success%20Datase)**: Analyzing factors affecting academic success.
+2. **[Binary Classification Bank Dataset](https://github.com/salah-0/Machine-Learning-/tree/main/Binary_C_Bank_Dataset)**: A binary classification model for predicting bank customer behaviors.
+3. **[MAGIC Gamma Telescope Data](https://github.com/salah-0/Machine-Learning-/tree/main/MAGIC%20Gamma%20Telescope%20Data)**: Classification of gamma telescope data using machine learning.
+4. **[Seoul Bike Sharing Data](https://github.com/salah-0/Machine-Learning-/tree/main/Seoul_Bike_Sharing_Data)**: Analysis and prediction of bike-sharing demand in Seoul.
 
 ## 📈 GitHub Stats
 
@@ -102,13 +87,13 @@ Here are some of my notable projects:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://twitter.com/yourprofile">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" title="Twitter" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://medium.com/@yourprofile">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium-original.svg" alt="Blog" title="Blog" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium-original.svg" alt="Blog" width="40" height="40"/>
   </a>
 </p>
 
