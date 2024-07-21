@@ -87,7 +87,7 @@ Here are some of my notable projects:
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salah-0&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salah-0&layout=compact&theme=dark)
 
 ## 🔗 Connect with Me
 
