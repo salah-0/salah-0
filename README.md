@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **Machine Lea
 ## About Me
 
 - 🎓 **Education**: Master Degree in Econometrics from TU Dortmund
-- 📫 **Contact**: salah.young@hotmail.com
+- 📫 **Contact**: hussein.salah@outlook.de
 
 ## 🛠️ Skills
 
